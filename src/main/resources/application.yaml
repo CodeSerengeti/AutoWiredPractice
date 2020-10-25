@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: linemachine
+    password: 1234fast
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mes_server_db?serverTimezone=UTC
